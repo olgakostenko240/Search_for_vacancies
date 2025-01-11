@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Python бэкенд разработчик",
+        "city": "Казань",
+        "salary": 150000,
+        "url": "https://hh.ru/vacancy/115035191",
+        "description": "Работа в офисе в центре Казани с 10 до 19 ч.. Уверенное владение <highlighttext>Python</highlighttext>, опыт работы с FastAPI и Aiogram. "
+    },
+    {
+        "name": "Junior Python Developer",
+        "city": "Барнаул",
+        "salary": 0,
+        "url": "https://hh.ru/vacancy/114810926",
+        "description": "Базовое знание языка <highlighttext>Python</highlighttext>. Общее представление как работать с asyncio. Опыт работы с Git и Docker. Круто, если есть: Свои..."
+    },
+    {
+        "name": "Программист",
+        "city": "Москва",
+        "salary": 250000,
+        "url": "https://hh.ru/vacancy/115048105",
+        "description": "ОБЯЗАТЕЛЬНОЕ ЗНАНИЕ ЯЗЫКА «С++»!. ЗНАНИЕ, ПОМИМО «С++», ОДНОГО или НЕСКОЛЬКО ЯЗЫКОВ СЕМЕЙСТВА «С» - Win32API. А также знание: Сетевого..."
+    },
+    {
+        "name": "Программист / разработчик (junior)",
+        "city": "Москва",
+        "salary": 70000,
+        "url": "https://hh.ru/vacancy/114928083",
+        "description": "Есть подтверждённые учебные или пет-проекты. - Законченные курсы не менее полугода назад или наличие профильного образования."
+    },
+    {
+        "name": "Backend Python разработчик",
+        "city": "Москва",
+        "salary": 160000,
+        "url": "https://hh.ru/vacancy/115069669",
+        "description": "Уверенные знания: <highlighttext>Python</highlighttext> (FastAPI). Опыт работы с PostgreSQL. Знание принципов построения микросервисной архитектуры. Опыт работы с Docker, понимание CI/CD. "
+    },
+    {
+        "name": "Python-разработчик (Junior)",
+        "city": "Москва",
+        "salary": 100000,
+        "url": "https://hh.ru/vacancy/112690973",
+        "description": "Уверенное владение <highlighttext>Python</highlighttext>. Умение писать SQL запросы. Аналитический склад ума. Навык работы с технической документацией и требованиями. Умение разбираться в..."
+    },
+    "login",
+    "public_repos"
+]
